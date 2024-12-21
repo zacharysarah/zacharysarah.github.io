@@ -4,7 +4,8 @@
     <title>Sarah Corleissen</title>
     <link>https://corleissen.com/</link>
     <description>Recent content on Sarah Corleissen</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://corleissen.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://corleissen.com/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
